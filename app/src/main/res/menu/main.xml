@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:src="@drawable/ic_daftar"
+        android:id="@+id/daftarisi"
+        android:title="Daftar Isi"/>
+
+    <item
+        android:src="@drawable/ic_about"
+        android:id="@+id/about"
+        android:title="About"/>
+    <item
+        android:src="@drawable/ic_exit"
+        android:id="@+id/exit"
+        android:title="Exit"
+        />
+
+</menu>
